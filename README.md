@@ -314,6 +314,7 @@ This section details publicly accessible government portals for company verifica
 	* **[National Enterprise Credit Information Publicity System](http://www.gsxt.gov.cn/)** – Official national registry of legal entities and individual industrial and commercial households; provides registration status, shareholders, branches and administrative penalties.
 	* **[Qichacha](https://www.qcc.com/)** – Commercial aggregator drawing on official filings; shows corporate structure, litigation history, bidding records and key personnel.
 	* **[Tianyancha](https://www.tianyancha.com/)** – Commercial platform aggregating enterprise credit data, equity relationships, judicial cases and regulatory filings.
+	* **[ChineseCheck](https://chinesecheck.com/)** – English-language interface to Chinese company registration records; free registry preview without a Chinese phone number or VPN, paid credit reports (commercial).
 * ⬛ Services for judicial decisions and court results
 	* **[China Judgments Online](http://wenshu.court.gov.cn/)** – Official database of judgments and rulings from courts at all levels; searchable by case number, parties and keywords.
 	* **[China Court Trial Online](http://tingshen.court.gov.cn/)** – Live and archived court proceedings from selected courts.
